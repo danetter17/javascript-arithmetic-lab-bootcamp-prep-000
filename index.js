@@ -33,4 +33,3 @@ function makeInt(numb) {
   parseInt('numb', 10);
   return numb;
 }
-makeInt;
