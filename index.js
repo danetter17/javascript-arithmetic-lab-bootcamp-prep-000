@@ -1,4 +1,4 @@
 function add(a, b) {
-  number = 358 + 720;
+  number = a + b;
   return number;
-};
+}
