@@ -30,6 +30,6 @@ function dec(n) {
 }
 
 function makeInt(numb) {
-  parseInt('numb', 10);
+  parseInt(numb, 10);
   return numb;
 }
