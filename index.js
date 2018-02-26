@@ -29,7 +29,7 @@ function dec(n) {
   return n;
 }
 
-function makeInt(n) {
+function makeInt() {
   parseInt('n', 10);
   return n;
 }
